@@ -40,6 +40,4 @@
 ---
 
 ### 💡 **"El código es poesía... y a veces, un buen bug es metáfora."**  
-*— danohx, 2024*  
-
-![Snake animation](https://github.com/danohx/danohx/blob/output/github-contribution-grid-snake.svg)
+*— danohx, 2025*  
